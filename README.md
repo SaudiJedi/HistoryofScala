@@ -8,18 +8,27 @@ The included Jupyter notebook (`notebook.ipynb`) provides a detailed analysis of
 
 ## Installation
 
-To get started with this project, clone the repository using:
-```
-git clone https://github.com/SaudiJedi/HistoryofScala.git
-```
+1. To get started with this project, clone the repository using:
+  ```
+  git clone https://github.com/SaudiJedi/HistoryofScala.git
+  ```
+2. navigate to the directory and open the Jupyter notebook:
+  ```
+  cd HistoryofScala
+  ```
+3. Make sure to install the important python packages with:
+  ```
+  pip install <packages names>
+  ``` 
+Or you can import/clone the ```notebook.ipynb``` file along the dataset(s) to Google Collab or JB DataLore, and work on it there.
 
 ## Usage
 
-After cloning the repository, navigate to the directory and open the Jupyter notebook:
+You can run the notebook with Jupyter Notebook following the commands:
 ```
-cd HistoryofScala jupyter
-notebook notebook.ipynb
+jupyter notebook
 ```
+You should see the directory opened with the Jupyter UI Browser Tab.
 
 ## Contributing
 
